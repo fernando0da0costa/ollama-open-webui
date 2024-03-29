@@ -12,5 +12,7 @@ Instalacao de  llama2
 ```shell
 docker-compose exec ollama ollama run llama2
 ```
-###  https://ollama.com/library
-###  https://github.com/open-webui/open-webui
+### https://ollama.com/library
+### https://github.com/open-webui/open-webui
+### https://hub.docker.com/r/nvidia/cuda
+### https://docs.docker.com/compose/gpu-support/
